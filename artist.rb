@@ -1,3 +1,3 @@
 class Artist < ActiveRecord::Base
-binding.pry
+#binding.pry
 end
